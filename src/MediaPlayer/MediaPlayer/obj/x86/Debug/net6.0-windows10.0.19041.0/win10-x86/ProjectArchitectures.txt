@@ -1,0 +1,1 @@
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer\MediaPlayer.csproj;x86

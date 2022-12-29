@@ -1,0 +1,12 @@
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\bin\x86\Debug\net6.0\MediaPlayer.Core.deps.json
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\bin\x86\Debug\net6.0\MediaPlayer.Core.dll
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\bin\x86\Debug\net6.0\MediaPlayer.Core.pdb
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\obj\x86\Debug\net6.0\MediaPlayer.Core.csproj.AssemblyReference.cache
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\obj\x86\Debug\net6.0\MediaPlayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\obj\x86\Debug\net6.0\MediaPlayer.Core.AssemblyInfoInputs.cache
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\obj\x86\Debug\net6.0\MediaPlayer.Core.AssemblyInfo.cs
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\obj\x86\Debug\net6.0\MediaPlayer.Core.csproj.CoreCompileInputs.cache
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\obj\x86\Debug\net6.0\MediaPlayer.Core.dll
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\obj\x86\Debug\net6.0\refint\MediaPlayer.Core.dll
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\obj\x86\Debug\net6.0\MediaPlayer.Core.pdb
+C:\GitHub\ElegantApp-MediaPlayer\src\MediaPlayer\MediaPlayer.Core\obj\x86\Debug\net6.0\ref\MediaPlayer.Core.dll
